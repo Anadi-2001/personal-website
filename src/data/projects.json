@@ -1,0 +1,26 @@
+[
+  {
+    "title": "Food Delevery",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://www.example.com",
+    "source": "https://github.com/Anadi-2001/FOOD"
+  },
+  {
+    "title": "Video-Library",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node", "Sass"],
+    "demo": "",
+    "source": "https://github.com/Anadi-2001/video-Library"
+  },
+  {
+    "title": "E-Commerce website",
+    "imageSrc": "projects/project.png",
+    "description": "This is a project made to learn the latest languages by building an app.",
+    "skills": ["React", "Express", "Node"],
+    "demo": "https://shooping-4idr.vercel.app/",
+    "source": "https://github.com/Anadi-2001/Shooping-"
+  }
+]
